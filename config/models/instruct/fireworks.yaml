@@ -1,0 +1,50 @@
+- name: "deepseek-r1"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/fireworks/models/deepseek-r1"
+      max_completion_length: 5000
+- name: "llama-3.1-405b-instruct"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/fireworks/models/llama-v3p1-405b-instruct"
+      max_completion_length: 5000
+- name: "yi-large"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/yi-01-ai/models/yi-large"
+      max_completion_length: 5000
+- name: "llama-v3p2-90b-vision-instruct"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/fireworks/models/llama-v3p2-90b-vision-instruct"
+      max_completion_length: 5000
+- name: "dobby-unhinged-llama-3.3-70b"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/sentientfoundation/models/dobby-unhinged-llama-3-3-70b-new"
+      max_completion_length: 5000

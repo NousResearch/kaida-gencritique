@@ -1,0 +1,3 @@
+I will show you five examples of spells for a game, and I'd like you to think through which is your favorite and why. it could be the objective 'best' in gameplay terms, or thematic. you may talk through why you think each is good or bad first if you want, but in the end rank the provided in order by their index numbers EXACTLY like this: `ITEM RANKING: [n, n, n, ...]` where each n is a number for one of the spells
+
+$ITEMS

@@ -1,0 +1,42 @@
+we're writing creating spells for a game. I will provide three examples, and I'd like you to write five more that could fit into the same game:
+
+<example1>
+{
+    "type": "ability",
+    "title": "Firebolt",
+    "description": "Conjure a ball of fire and launch it at a single Target, dealing 12 Damage on hit. A Critical Hit will light the target on fire.",
+}
+</example1>
+<example2>
+{
+    "type": "ability",
+    "title": "Nether Swap",
+    "description": "Slip through the cracks of reality, swapping places with a single Target. On High Rolls, your target is Stunned from the disorientation.",
+}
+</example2>
+<example3>
+{
+    "type": "ability",
+    "title": "Arcane Missiles",
+    "description": "Cast a dozen bolts of pure mana towards a Target, each dealing one Damage for a total of 12.",
+}
+</example3>
+<example4>
+{
+    "type": "ability",
+    "title": "Entangling Roots",
+    "description": "Call forth twisting vines and roots to grab onto one Target and prevent them from using their Move Action for the next two Rounds.",
+}
+</example4>
+
+remember that the cards I've shown you are just examples for what we're looking for, but you should not duplicate them or follow them closely.
+
+when making your spells, I would like you to use the following words as your thematic inspiration. these are not to be repeated or used verbatim: $WORDS
+
+put each spell in a block like this:
+
+```
+<item1>
+...
+</item1>
+```
